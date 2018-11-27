@@ -1,0 +1,7 @@
+id,title,body,user_id,created_at,updated_at
+1,"Here's our first post","This is the body of the first post.
+            It is split into paragraphs.",1,"2018-05-14 15:09:16",
+2,"Now for a second article","This is the body of the second post.
+            This is another paragraph.",1,"2018-06-05 05:29:43",
+3,"Here's a third post.","This is the body of the third post.
+            This is split into paragraphs.",1,"2018-07-01 19:12:57",

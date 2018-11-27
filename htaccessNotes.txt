@@ -1,0 +1,2 @@
+the .htaccess file in www/blog/ sets mod_rewrite module options. 
+It forces our webserver to disallow access to specific directories so that outsiders can't navigate to these files even if they know our webserver's directory structure.
